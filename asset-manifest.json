@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-task6/static/css/main.b95a224a.css",
+    "main.js": "/react-task6/static/js/main.3023f63f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-task6/static/js/787.1ed0c42c.chunk.js",
+    "static/media/proj4.png": "/react-task6/static/media/proj4.f7d990bed0238300299a.png",
+    "static/media/proj5.png": "/react-task6/static/media/proj5.fdad95f6c6578a73835a.png",
+    "static/media/proj1.png": "/react-task6/static/media/proj1.65433d90d7bc315e43c2.png",
+    "static/media/proj3.png": "/react-task6/static/media/proj3.ea81e7f36efd4b94c4f7.png",
+    "static/media/proj2.png": "/react-task6/static/media/proj2.b1e4b19a88537646557b.png",
+    "index.html": "/react-task6/index.html",
+    "main.b95a224a.css.map": "/react-task6/static/css/main.b95a224a.css.map",
+    "main.3023f63f.js.map": "/react-task6/static/js/main.3023f63f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-task6/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95a224a.css",
+    "static/js/main.3023f63f.js"
+  ]
+}
